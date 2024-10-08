@@ -1,0 +1,6 @@
+train: C:/Users/YJKIM_PC/yolo11/yolo custom dataset/train/images
+val: C:/Users/YJKIM_PC/yolo11/yolo custom dataset/valid/images
+test: C:/Users/YJKIM_PC/yolo11/yolo custom dataset/test/images
+
+nc: 3
+names: ['chocolate', 'timer', 'candy']
