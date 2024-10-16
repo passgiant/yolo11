@@ -2,6 +2,8 @@ yolo custom dataset
 *.pt
 runs
 customData
+232.재활용품 분류 및 선별 데이터 train+
 232.재활용품 분류 및 선별 데이터
 org
 aug
+232.recycle
