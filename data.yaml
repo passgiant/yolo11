@@ -1,6 +1,6 @@
-train: C:/Users/yjkim/yolo11/customData/org/train/images
-val: C:/Users/yjkim/yolo11/customData/org/valid/images
-test: C:/Users/yjkim/yolo11/customData/org/test/images
+train: C:/Users/YJKIM_PC/yolo11/org/train/images
+val: C:/Users/YJKIM_PC/yolo11/org/valid/images
+test: C:/Users/YJKIM_PC/yolo11/org/test/images
 
-nc: 3
-names: ['chocolate', 'timer', 'candy']
+nc: 7
+names: ['Metal_Can_Steel_Can', 'Metal_Can_Aluminum_Can', 'PET_Bottle_Clear_Single', 'PET_Bottle_Colored_Single', 'Glass_Bottle_Brown', 'Glass_Bottle_Green', 'Glass_Bottle_Clear']

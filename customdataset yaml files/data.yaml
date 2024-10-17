@@ -1,0 +1,6 @@
+train: C:/Users/yjkim/yolo11/customData/org/train/images
+val: C:/Users/yjkim/yolo11/customData/org/valid/images
+test: C:/Users/yjkim/yolo11/customData/org/test/images
+
+nc: 3
+names: ['chocolate', 'timer', 'candy']
